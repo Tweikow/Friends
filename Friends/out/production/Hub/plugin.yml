@@ -1,0 +1,10 @@
+name: Hub
+version: 1.0
+author: Tweikow
+main: fr.tweikow.hub.Main
+commands:
+  friend:
+    aliases:
+      - f
+      - friends
+      - ami
