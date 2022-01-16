@@ -1,0 +1,11 @@
+name: Friends
+version: 1.0
+api-version: 1.15
+author: Tweikow
+main: fr.tweikow.friends.Main
+commands:
+  friend:
+    aliases:
+      - f
+      - friends
+      - ami
